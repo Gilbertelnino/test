@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.choccyorwine.com	TRUE	/	FALSE	1999999999	_etison_sessions_dcs_v2	82bd6960c5c61c7d0b379a2a2b71155a
+.clickfunnels.com	TRUE	/	FALSE	1999999999	__cfduid	d9949da972545a6eaeb536d09c842ce051592663833
+app.clickfunnels.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.cloudflareinsights.com	TRUE	/	FALSE	1999999999	__cfduid	d7393f9898492db7aa38484a0f5e9543c1592663835
+static.cloudflareinsights.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.recurly.com	TRUE	/	FALSE	1999999999	__cfduid	d8fb6945dc0b2dc53fedc70634bf07c401592663901
+js.recurly.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.choccyorwine.com	TRUE	/	FALSE	1999999999	__cfduid	dfa059624d9664373ceab7ce7b0f398e81592663922
+.choccyorwine.com	TRUE	/	FALSE	1999999999	__cf_bm	7fa45c8081c4e1f6e6b78aad675cc194cea5d8c3-1592663922-1800-AQRt8YFupXYfwhJtMlbqKk8HgJ2hNRGqiYGXamOE+5hea/sHN/9lmtQe3akHH2g678HFQjE1uO70C5ydtklmQwY=
+choccyorwine.com	TRUE	/	FALSE	1999999999	SameSite	None
+
